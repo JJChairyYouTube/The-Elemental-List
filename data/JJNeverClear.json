@@ -7,6 +7,20 @@
     "verification": "https://www.youtube.com/watch?v=8pzMAJVY4GA",
     "percentToQualify": 80,
     "password": "Free Copy",
-    "records": [],
+    "records": [
+        {
+            "user": "Xurido",
+            "link": "https://www.youtube.com/watch?v=w031LD5rSmo",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Fluxite",
+            "link": "https://youtu.be/ytpHLcxsW2g",
+            "percent": 100,
+            "hz": 240
+        }
+        
+    ],
     "description": "An Earth Type Level that is speed and ship based. Level was given an exception even though it wasnt Medium lenght."
 }
