@@ -227,24 +227,3 @@ p::after,
     margin-top: -0.4416666667em;
     display: table;
 }
-
-tagfont,
-.type-body {
-    font-family: "Lexend Deca", sans-serif;
-    font-size: 12px;
-    line-height: 28px;
-    font-weight: 300;
-    -webkit-font-smoothing: subpixel-antialiased;
-}
-tagfont::before,
-.type-body::before {
-    content: "";
-    margin-bottom: -0.4916666667em;
-    display: table;
-}
-tagfont::after,
-.type-body::after {
-    content: "";
-    margin-top: -0.4416666667em;
-    display: table;
-}
