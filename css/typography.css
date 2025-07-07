@@ -227,3 +227,24 @@ p::after,
     margin-top: -0.4416666667em;
     display: table;
 }
+
+a,
+.type-body {
+    font-family: "Lexend Deca", sans-serif;
+    font-size: 6px;
+    line-height: 28px;
+    font-weight: 500;
+    -webkit-font-smoothing: subpixel-antialiased;
+}
+a::before,
+.type-body::before {
+    content: "";
+    margin-bottom: -0.4916666667em;
+    display: table;
+}
+a::after,
+.type-body::after {
+    content: "";
+    margin-top: -0.4416666667em;
+    display: table;
+}
