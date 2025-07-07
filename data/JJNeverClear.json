@@ -22,5 +22,6 @@
         }
         
     ],
-    "description": "An Earth Type Level that is speed and ship based. Level was given an exception even though it wasnt Medium lenght."
+    "description": "First Level placed on the list! Level was given an exception even though it wasnt Medium lenght.",
+    "tags": ["Earth", "Ship", "Speed"]
 }
