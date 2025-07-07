@@ -23,5 +23,5 @@
         
     ],
     "description": "First Level placed on the list! Level was given an exception even though it wasnt Medium lenght.",
-    "tags": ["Earth", "Ship", "Speed"]
+    "tags": "Earth, Ship, Speed"
 }
