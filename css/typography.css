@@ -228,7 +228,7 @@ p::after,
     display: table;
 }
 
-z,
+tagfont,
 .type-body {
     font-family: "Lexend Deca", sans-serif;
     font-size: 12px;
@@ -236,13 +236,13 @@ z,
     font-weight: 300;
     -webkit-font-smoothing: subpixel-antialiased;
 }
-z::before,
+tagfont::before,
 .type-body::before {
     content: "";
     margin-bottom: -0.4916666667em;
     display: table;
 }
-z::after,
+tagfont::after,
 .type-body::after {
     content: "";
     margin-top: -0.4416666667em;
