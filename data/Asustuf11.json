@@ -8,8 +8,13 @@
     "percentToQualify": 70,
     "password": "Free Copy",
     "records": [
+            {
+            "user": "Xurido",
+            "link": "https://youtu.be/aP6nRgabrmk",
+            "percent": 100,
+            "hz": 240
+        }
     
-        
     ],
     "description": "Meme level, hard, given exception to get onto the list!",
     "tags": "Fire, Wave, Speed"
